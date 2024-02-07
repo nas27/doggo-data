@@ -18,8 +18,6 @@ Analyzing dog breeds, expenses, traits and genetic ailments. Informed insights e
 
 ## Datasets
 
-Datasets:
-
 Breed code: https://acrobat.adobe.com/id/urn:aaid:sc:US:907ae894-61fe-4a01-bbcc-cbeec3f8ed2c
 
 Lifetime cost data: https://www.kaggle.com/datasets/paultimothymooney/best-in-show-data-about-dogs
