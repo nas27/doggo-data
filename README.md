@@ -33,8 +33,6 @@ Intelligence/Size: https://www.kaggle.com/datasets/thedevastator/canine-intellig
 
 ## Conclusion
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 There is a statistically significant correlation between popularity and average purchase price indicating you _may_ pay a premium for popular dogs.
 Larger(height metric) dogs are more likely to be predisposed to cancer.
 
@@ -46,9 +44,4 @@ Dashboards:
 2. Character Traits and Predisposition to ailments based on dog breeds
    
 Tableau online: TBD
-=======
-TBD
->>>>>>> 0b9da7e622a41d8e740f6e25cc7e16d36112362c
-=======
-TBD
->>>>>>> 0b9da7e622a41d8e740f6e25cc7e16d36112362c
+
