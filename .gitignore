@@ -36,6 +36,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Powerpoints/Personal info for LHL
+DD_PP_Presentation_2.0.pptx
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
