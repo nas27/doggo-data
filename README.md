@@ -1,6 +1,6 @@
 # Doggo-Data
 
-Analyzing dog breeds, expenses, traits and genetic ailments. Informed insights empower decision-making, fostering a deeper bond with man's best friend.
+Analyzing dog breeds, expenses, traits and genetic ailments. Informed insights empower decision-making, fostering a deeper bond with man\'s best friend.
 
 
 ## Workflow
@@ -35,4 +35,14 @@ Intelligence/Size: https://www.kaggle.com/datasets/thedevastator/canine-intellig
 
 ## Conclusion
 
-TBD
+There is a statistically significant correlation between popularity and average purchase price indicating you _may_ pay a premium for popular dogs.
+Larger(height metric) dogs are more likely to be predisposed to cancer.
+
+### Tableau
+
+Dashboards:
+
+1. Cost breakdown $ of Dog Ownership
+2. Character Traits and Predisposition to ailments based on dog breeds
+   
+Tableau online: TBD
